@@ -1,0 +1,19 @@
+- repo: freebsd
+  srcname: security/kuku
+  binname: kuku
+  visiblename: security/kuku
+  version: 3.0.0
+  origversion: null
+  status: outdated
+  summary: Cuckoo hashing library written in C++
+  maintainers:
+    - yuri@freebsd.org
+  categories:
+    - security
+- repo: vcpkg
+  srcname: kuku
+  visiblename: kuku
+  version: 4.0.0
+  origversion: null
+  status: newest
+  summary: Kuku is a compact and convenient cuckoo hashing library written in C++.
