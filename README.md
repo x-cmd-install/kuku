@@ -48,12 +48,12 @@ Total: **172,669** lines of code across **574** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 0 | 0 | 4 | 0 | 0 | 0 |
-| last60d | 2026-07-15 | 0 | 0 | 4 | 0 | 0 | 0 |
-| 90d | 2026-06-15 | 2 | 0 | 5 | 0 | 0 | 0 |
-| last180d | 2026-03-17 | 12 | 28 | 6 | 4 | 1 | 554 |
-| 360d | 2025-09-18 | 13 | 28 | 6 | 5 | 1 | 603 |
-| last720d | 2024-09-23 | 13 | 28 | 6 | 5 | 1 | 626 |
+| 30d | 2026-08-15 | 0 | 0 | 4 | 0 | 0 | 0 |
+| last60d | 2026-07-16 | 0 | 0 | 4 | 0 | 0 | 0 |
+| 90d | 2026-06-16 | 1 | 0 | 5 | 0 | 0 | 0 |
+| last180d | 2026-03-18 | 12 | 28 | 6 | 4 | 1 | 554 |
+| 360d | 2025-09-19 | 13 | 28 | 6 | 5 | 1 | 603 |
+| last720d | 2024-09-24 | 13 | 28 | 6 | 5 | 1 | 626 |
 
 ## Release assets
 
@@ -62,10 +62,6 @@ Total: **172,669** lines of code across **574** files in the top 5 languages.
 | [Kuku.app.tar.gz](https://github.com/kuku-mom/kuku/releases/download/0.5.8/Kuku.app.tar.gz) | 20.2 MiB | `native/unknown` |
 | [Kuku.app.tar.gz.sig](https://github.com/kuku-mom/kuku/releases/download/0.5.8/Kuku.app.tar.gz.sig) | 400 B | `other` |
 | [Kuku_0.5.8_aarch64.dmg](https://github.com/kuku-mom/kuku/releases/download/0.5.8/Kuku_0.5.8_aarch64.dmg) | 19.9 MiB | `other` |
-
-## Distribution status
-
-Reported by **2** distros on [repology.org](https://repology.org/project/kuku). **1** are ✅ on the latest upstream release, **1** are ⚠️ on an older version.
 
 ## Improve this data
 
@@ -76,4 +72,4 @@ Install metadata for kuku lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T05:36:15Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T05:43:39Z._
