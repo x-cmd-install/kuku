@@ -38,7 +38,7 @@ Total: **172,669** lines of code across **574** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 220 · **Forks**: 45 · **Open issues**: 6 · **Contributors**: 5
+- **Stars**: 220 · **Forks**: 44 · **Open issues**: 6 · **Contributors**: 5
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **172,669** lines of code across **574** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-15 | 0 | 0 | 4 | 0 | 0 | 0 |
-| last60d | 2026-07-16 | 0 | 0 | 4 | 0 | 0 | 0 |
-| 90d | 2026-06-16 | 1 | 0 | 5 | 0 | 0 | 0 |
-| last180d | 2026-03-18 | 12 | 28 | 6 | 4 | 1 | 554 |
-| 360d | 2025-09-19 | 13 | 28 | 6 | 5 | 1 | 603 |
-| last720d | 2024-09-24 | 13 | 28 | 6 | 5 | 1 | 626 |
+| 30d | 2026-08-16 | 0 | 0 | 4 | 0 | 0 | 0 |
+| last60d | 2026-07-17 | 0 | 0 | 4 | 0 | 0 | 0 |
+| 90d | 2026-06-17 | 0 | 0 | 5 | 0 | 0 | 0 |
+| last180d | 2026-03-19 | 12 | 28 | 6 | 4 | 1 | 554 |
+| 360d | 2025-09-20 | 13 | 28 | 6 | 5 | 1 | 603 |
+| last720d | 2024-09-25 | 13 | 28 | 6 | 5 | 1 | 626 |
 
 ## Release assets
 
@@ -72,4 +72,4 @@ Install metadata for kuku lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260914.yml` · 2026-09-14T05:43:39Z._
+_Snapshot: `data/card/260915.yml` · 2026-09-15T05:52:26Z._
