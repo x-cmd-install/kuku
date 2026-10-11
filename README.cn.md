@@ -14,15 +14,15 @@ x install kuku
 
 ## 代码洞察
 
-合计: **172,669** 行代码（覆盖前 5 种语言、共 **574** 个文件）。
+合计: **216,821** 行代码（覆盖前 5 种语言、共 **700** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Rust | 76,082 | 165 | 3,888 | 99 |
-| TypeScript | 39,762 | 10,061 | 6,084 | 293 |
+| Rust | 83,149 | 206 | 4,352 | 113 |
+| TypeScript | 59,265 | 10,112 | 6,686 | 385 |
+| Tsx | 26,273 | 948 | 2,127 | 104 |
 | Go | 21,184 | 1,635 | 2,604 | 81 |
-| Tsx | 19,699 | 935 | 2,051 | 84 |
-| Yaml | 8,742 | 167 | 2,188 | 17 |
+| Yaml | 8,787 | 167 | 2,192 | 17 |
 
 ## 源代码
 
@@ -32,8 +32,8 @@ x install kuku
 
 ## 发布
 
-- **最新版本**: `0.5.8` (2026-06-16)
-- **最近提交**: 2026-06-16
+- **最新版本**: `0.6.0` (2026-10-10)
+- **最近提交**: 2026-10-10
 - **Release 含资产**: 3 个
 
 ## 流行度
@@ -42,26 +42,26 @@ x install kuku
 
 ## 累计统计
 
-- **发布数**: 13 · **已合并 PR**: 28 · **开放 PR**: 6 · **已关闭 issue**: 5 · **开放 issue**: 1 · **提交数**: 626
+- **发布数**: 14 · **已合并 PR**: 32 · **开放 PR**: 0 · **已关闭 issue**: 5 · **开放 issue**: 1 · **提交数**: 657
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-10 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-11 | 0 | 0 | 4 | 0 | 0 | 0 |
-| 90d | 2026-07-12 | 0 | 0 | 4 | 0 | 0 | 0 |
-| last180d | 2026-04-13 | 12 | 28 | 6 | 4 | 1 | 401 |
-| 360d | 2025-10-15 | 13 | 28 | 6 | 5 | 1 | 603 |
-| last720d | 2024-10-20 | 13 | 28 | 6 | 5 | 1 | 626 |
+| 30d | 2026-09-11 | 1 | 0 | 0 | 0 | 0 | 9 |
+| last60d | 2026-08-12 | 1 | 4 | 0 | 0 | 0 | 27 |
+| 90d | 2026-07-13 | 1 | 4 | 0 | 0 | 0 | 27 |
+| last180d | 2026-04-14 | 13 | 32 | 0 | 4 | 1 | 322 |
+| 360d | 2025-10-16 | 14 | 32 | 0 | 5 | 1 | 630 |
+| last720d | 2024-10-21 | 14 | 32 | 0 | 5 | 1 | 657 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [Kuku.app.tar.gz](https://github.com/kuku-mom/kuku/releases/download/0.5.8/Kuku.app.tar.gz) | 20.2 MiB | `native/unknown` |
-| [Kuku.app.tar.gz.sig](https://github.com/kuku-mom/kuku/releases/download/0.5.8/Kuku.app.tar.gz.sig) | 400 B | `other` |
-| [Kuku_0.5.8_aarch64.dmg](https://github.com/kuku-mom/kuku/releases/download/0.5.8/Kuku_0.5.8_aarch64.dmg) | 19.9 MiB | `other` |
+| [Kuku.app.tar.gz](https://github.com/kuku-mom/kuku/releases/download/0.6.0/Kuku.app.tar.gz) | 16.6 MiB | `native/unknown` |
+| [Kuku.app.tar.gz.sig](https://github.com/kuku-mom/kuku/releases/download/0.6.0/Kuku.app.tar.gz.sig) | 400 B | `other` |
+| [Kuku_0.6.0_aarch64.dmg](https://github.com/kuku-mom/kuku/releases/download/0.6.0/Kuku_0.6.0_aarch64.dmg) | 16.3 MiB | `other` |
 
 ## 改进这些数据
 
@@ -72,4 +72,4 @@ kuku 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261010.yml` · 2026-10-10T06:24:11Z._
+_数据快照: `data/card/261011.yml` · 2026-10-11T06:20:30Z._

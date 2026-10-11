@@ -14,15 +14,15 @@ x install kuku
 
 ## Code insight
 
-Total: **172,669** lines of code across **574** files in the top 5 languages.
+Total: **216,821** lines of code across **700** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 76,082 | 165 | 3,888 | 99 |
-| TypeScript | 39,762 | 10,061 | 6,084 | 293 |
+| Rust | 83,149 | 206 | 4,352 | 113 |
+| TypeScript | 59,265 | 10,112 | 6,686 | 385 |
+| Tsx | 26,273 | 948 | 2,127 | 104 |
 | Go | 21,184 | 1,635 | 2,604 | 81 |
-| Tsx | 19,699 | 935 | 2,051 | 84 |
-| Yaml | 8,742 | 167 | 2,188 | 17 |
+| Yaml | 8,787 | 167 | 2,192 | 17 |
 
 ## Source
 
@@ -32,8 +32,8 @@ Total: **172,669** lines of code across **574** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `0.5.8` (2026-06-16)
-- **Last commit**: 2026-06-16
+- **Latest**: `0.6.0` (2026-10-10)
+- **Last commit**: 2026-10-10
 - **Assets in release**: 3
 
 ## Popularity
@@ -42,26 +42,26 @@ Total: **172,669** lines of code across **574** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 13 · **Merged PRs**: 28 · **Open PRs**: 6 · **Closed issues**: 5 · **Open issues**: 1 · **Commits**: 626
+- **Releases**: 14 · **Merged PRs**: 32 · **Open PRs**: 0 · **Closed issues**: 5 · **Open issues**: 1 · **Commits**: 657
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-10 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-11 | 0 | 0 | 4 | 0 | 0 | 0 |
-| 90d | 2026-07-12 | 0 | 0 | 4 | 0 | 0 | 0 |
-| last180d | 2026-04-13 | 12 | 28 | 6 | 4 | 1 | 401 |
-| 360d | 2025-10-15 | 13 | 28 | 6 | 5 | 1 | 603 |
-| last720d | 2024-10-20 | 13 | 28 | 6 | 5 | 1 | 626 |
+| 30d | 2026-09-11 | 1 | 0 | 0 | 0 | 0 | 9 |
+| last60d | 2026-08-12 | 1 | 4 | 0 | 0 | 0 | 27 |
+| 90d | 2026-07-13 | 1 | 4 | 0 | 0 | 0 | 27 |
+| last180d | 2026-04-14 | 13 | 32 | 0 | 4 | 1 | 322 |
+| 360d | 2025-10-16 | 14 | 32 | 0 | 5 | 1 | 630 |
+| last720d | 2024-10-21 | 14 | 32 | 0 | 5 | 1 | 657 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [Kuku.app.tar.gz](https://github.com/kuku-mom/kuku/releases/download/0.5.8/Kuku.app.tar.gz) | 20.2 MiB | `native/unknown` |
-| [Kuku.app.tar.gz.sig](https://github.com/kuku-mom/kuku/releases/download/0.5.8/Kuku.app.tar.gz.sig) | 400 B | `other` |
-| [Kuku_0.5.8_aarch64.dmg](https://github.com/kuku-mom/kuku/releases/download/0.5.8/Kuku_0.5.8_aarch64.dmg) | 19.9 MiB | `other` |
+| [Kuku.app.tar.gz](https://github.com/kuku-mom/kuku/releases/download/0.6.0/Kuku.app.tar.gz) | 16.6 MiB | `native/unknown` |
+| [Kuku.app.tar.gz.sig](https://github.com/kuku-mom/kuku/releases/download/0.6.0/Kuku.app.tar.gz.sig) | 400 B | `other` |
+| [Kuku_0.6.0_aarch64.dmg](https://github.com/kuku-mom/kuku/releases/download/0.6.0/Kuku_0.6.0_aarch64.dmg) | 16.3 MiB | `other` |
 
 ## Improve this data
 
@@ -72,4 +72,4 @@ Install metadata for kuku lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261010.yml` · 2026-10-10T06:24:10Z._
+_Snapshot: `data/card/261011.yml` · 2026-10-11T06:20:30Z._
