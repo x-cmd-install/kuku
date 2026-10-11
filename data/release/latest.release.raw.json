@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/kuku-mom/kuku/releases/340266007",
-  "assets_url": "https://api.github.com/repos/kuku-mom/kuku/releases/340266007/assets",
-  "upload_url": "https://uploads.github.com/repos/kuku-mom/kuku/releases/340266007/assets{?name,label}",
-  "html_url": "https://github.com/kuku-mom/kuku/releases/tag/0.5.8",
-  "id": 340266007,
+  "url": "https://api.github.com/repos/kuku-mom/kuku/releases/408926215",
+  "assets_url": "https://api.github.com/repos/kuku-mom/kuku/releases/408926215/assets",
+  "upload_url": "https://uploads.github.com/repos/kuku-mom/kuku/releases/408926215/assets{?name,label}",
+  "html_url": "https://github.com/kuku-mom/kuku/releases/tag/0.6.0",
+  "id": 408926215,
   "author": {
     "login": "mansuiki",
     "id": 46621637,
@@ -25,21 +25,21 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "node_id": "RE_kwDORC4GZ84USAwX",
-  "tag_name": "0.5.8",
+  "node_id": "RE_kwDORC4GZ84YX7gH",
+  "tag_name": "0.6.0",
   "target_commitish": "main",
-  "name": "0.5.8",
+  "name": "0.6.0",
   "draft": false,
   "immutable": false,
   "prerelease": false,
-  "created_at": "2026-06-16T16:09:21Z",
-  "updated_at": "2026-06-16T16:15:34Z",
-  "published_at": "2026-06-16T16:15:34Z",
+  "created_at": "2026-10-10T12:07:34Z",
+  "updated_at": "2026-10-10T12:08:47Z",
+  "published_at": "2026-10-10T12:08:47Z",
   "assets": [
     {
-      "url": "https://api.github.com/repos/kuku-mom/kuku/releases/assets/449386714",
-      "id": 449386714,
-      "node_id": "RA_kwDORC4GZ84ayRja",
+      "url": "https://api.github.com/repos/kuku-mom/kuku/releases/assets/627879316",
+      "id": 627879316,
+      "node_id": "RA_kwDORC4GZ84lbK2U",
       "name": "Kuku.app.tar.gz",
       "label": null,
       "uploader": {
@@ -65,17 +65,17 @@
       },
       "content_type": "application/x-gzip",
       "state": "uploaded",
-      "size": 21188932,
-      "digest": "sha256:84cfed5585183b55056781881f8a66fcbdbe65417ce7b9045b6551ccda1f01f1",
-      "download_count": 81,
-      "created_at": "2026-06-16T16:10:56Z",
-      "updated_at": "2026-06-16T16:10:58Z",
-      "browser_download_url": "https://github.com/kuku-mom/kuku/releases/download/0.5.8/Kuku.app.tar.gz"
+      "size": 17415408,
+      "digest": "sha256:6645bd58ad958c54f902fd1d16835d2d2f4680217a9fac99eecebffa92acda61",
+      "download_count": 2,
+      "created_at": "2026-10-10T12:08:42Z",
+      "updated_at": "2026-10-10T12:08:44Z",
+      "browser_download_url": "https://github.com/kuku-mom/kuku/releases/download/0.6.0/Kuku.app.tar.gz"
     },
     {
-      "url": "https://api.github.com/repos/kuku-mom/kuku/releases/assets/449386733",
-      "id": 449386733,
-      "node_id": "RA_kwDORC4GZ84ayRjt",
+      "url": "https://api.github.com/repos/kuku-mom/kuku/releases/assets/627879352",
+      "id": 627879352,
+      "node_id": "RA_kwDORC4GZ84lbK24",
       "name": "Kuku.app.tar.gz.sig",
       "label": null,
       "uploader": {
@@ -102,17 +102,17 @@
       "content_type": "application/octet-stream",
       "state": "uploaded",
       "size": 400,
-      "digest": "sha256:27b228e74208921aeea51b74265fc4adbc50e64cc86ce7b6bb4c94148927bc8d",
-      "download_count": 1,
-      "created_at": "2026-06-16T16:10:58Z",
-      "updated_at": "2026-06-16T16:10:59Z",
-      "browser_download_url": "https://github.com/kuku-mom/kuku/releases/download/0.5.8/Kuku.app.tar.gz.sig"
+      "digest": "sha256:4c44ae6e55b5779a2ca1b42dd5d184500ae1bc7fb8603f196b1cacea9df63021",
+      "download_count": 0,
+      "created_at": "2026-10-10T12:08:44Z",
+      "updated_at": "2026-10-10T12:08:44Z",
+      "browser_download_url": "https://github.com/kuku-mom/kuku/releases/download/0.6.0/Kuku.app.tar.gz.sig"
     },
     {
-      "url": "https://api.github.com/repos/kuku-mom/kuku/releases/assets/449386672",
-      "id": 449386672,
-      "node_id": "RA_kwDORC4GZ84ayRiw",
-      "name": "Kuku_0.5.8_aarch64.dmg",
+      "url": "https://api.github.com/repos/kuku-mom/kuku/releases/assets/627879181",
+      "id": 627879181,
+      "node_id": "RA_kwDORC4GZ84lbK0N",
+      "name": "Kuku_0.6.0_aarch64.dmg",
       "label": null,
       "uploader": {
         "login": "mansuiki",
@@ -137,15 +137,15 @@
       },
       "content_type": "application/x-diskcopy",
       "state": "uploaded",
-      "size": 20850424,
-      "digest": "sha256:30978f668e9a73ab574b39fae019ffc73a39d0d2b2f142bea340dfdd1811dcf1",
-      "download_count": 528,
-      "created_at": "2026-06-16T16:10:51Z",
-      "updated_at": "2026-06-16T16:10:56Z",
-      "browser_download_url": "https://github.com/kuku-mom/kuku/releases/download/0.5.8/Kuku_0.5.8_aarch64.dmg"
+      "size": 17067201,
+      "digest": "sha256:e37d28b24e8b383ea6f462b6d753eacf8cf4dd78e97121606f32dc75e5a77e22",
+      "download_count": 4,
+      "created_at": "2026-10-10T12:08:38Z",
+      "updated_at": "2026-10-10T12:08:42Z",
+      "browser_download_url": "https://github.com/kuku-mom/kuku/releases/download/0.6.0/Kuku_0.6.0_aarch64.dmg"
     }
   ],
-  "tarball_url": "https://api.github.com/repos/kuku-mom/kuku/tarball/0.5.8",
-  "zipball_url": "https://api.github.com/repos/kuku-mom/kuku/zipball/0.5.8",
-  "body": "# Kuku 0.5.8\r\n\r\n## Highlights\r\n- Rebuilt Agent World with real 3D Kuku characters, houses, cel shading, terrain, paths, sky, and nature \r\n- Agent World is still early-stage and disabled by default. Enable it from Settings > Plugins, restart the app, and try it when you want to \r\n- Added focus, hover, and selection rings so notes and agents are easier to \r\n- Added Agent World render settings for visible agent count, movement speed, and nature density.\r\n- Optimized 3D model assets and tightened world resource cleanup.\r\n\r\n**Full Changelog**: https://github.com/kuku-mom/kuku/compare/0.5.7...0.5.8"
+  "tarball_url": "https://api.github.com/repos/kuku-mom/kuku/tarball/0.6.0",
+  "zipball_url": "https://api.github.com/repos/kuku-mom/kuku/zipball/0.6.0",
+  "body": "# Kuku 0.6.0\r\n\r\nPlan your day and capture meetings alongside your notes.\r\n\r\n## Highlights\r\n\r\n- Added Planner to bring Markdown tasks and calendar events into one view.\r\n- Schedule tasks by dragging them onto the calendar, move and resize time blocks, find free time, and undo supported changes.\r\n- Connect Apple Calendar and Apple Reminders to manage events and tasks alongside your notes.\r\n- Added Planner tools to AI Chat for finding tasks, checking availability, and managing your schedule.\r\n- Added Meeting Notes with on-device transcription from microphone and system audio, saved directly into Markdown with speaker labels.\r\n- Refined the 3D Graph View with a quieter constellation design, improved light and dark themes, and trackpad pan, pinch zoom, and rotation.\r\n- Rebuilt Agent World as an interactive harbor with 25 resident variants, note-linked buildings, animated connections, and more efficient rendering.\r\n\r\n## Notes\r\n\r\n- Meeting Notes requires an Apple Silicon Mac running macOS 15 or later. First use downloads approximately 1.76 GB of models and requires audio permissions. Audio processing stays on your device; saved notes follow your vault’s sync settings.\r\n- Apple Calendar and Apple Reminders require their respective macOS permissions.\r\n- Google Calendar integration is temporarily disabled while OAuth scope verification is pending. Existing Google sign-in remains available.\r\n- Agent World remains experimental and disabled by default. Enable it in Settings > Plugins and restart the app.\r\n\r\n**Full Changelog**: [0.5.8 → 0.6.0](https://github.com/kuku-mom/kuku/compare/0.5.8...0.6.0)"
 }
