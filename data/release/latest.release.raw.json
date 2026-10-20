@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 17415408,
       "digest": "sha256:6645bd58ad958c54f902fd1d16835d2d2f4680217a9fac99eecebffa92acda61",
-      "download_count": 10,
+      "download_count": 11,
       "created_at": "2026-10-10T12:08:42Z",
       "updated_at": "2026-10-10T12:08:44Z",
       "browser_download_url": "https://github.com/kuku-mom/kuku/releases/download/0.6.0/Kuku.app.tar.gz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 17067201,
       "digest": "sha256:e37d28b24e8b383ea6f462b6d753eacf8cf4dd78e97121606f32dc75e5a77e22",
-      "download_count": 33,
+      "download_count": 35,
       "created_at": "2026-10-10T12:08:38Z",
       "updated_at": "2026-10-10T12:08:42Z",
       "browser_download_url": "https://github.com/kuku-mom/kuku/releases/download/0.6.0/Kuku_0.6.0_aarch64.dmg"
