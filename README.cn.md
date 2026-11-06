@@ -38,7 +38,7 @@ x install kuku
 
 ## 流行度
 
-- **Star**: 233 · **Fork**: 41 · **开放 issue**: 6 · **贡献者**: 5
+- **Star**: 232 · **Fork**: 41 · **开放 issue**: 6 · **贡献者**: 5
 
 ## 累计统计
 
@@ -48,12 +48,12 @@ x install kuku
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-06 | 1 | 0 | 1 | 0 | 0 | 9 |
-| last60d | 2026-09-06 | 1 | 0 | 1 | 0 | 0 | 9 |
-| 90d | 2026-08-07 | 1 | 4 | 1 | 0 | 0 | 27 |
-| last180d | 2026-05-09 | 8 | 17 | 1 | 2 | 1 | 136 |
-| 360d | 2025-11-10 | 14 | 32 | 1 | 5 | 1 | 630 |
-| last720d | 2024-11-15 | 14 | 32 | 1 | 5 | 1 | 657 |
+| 30d | 2026-10-07 | 1 | 0 | 1 | 0 | 0 | 9 |
+| last60d | 2026-09-07 | 1 | 0 | 1 | 0 | 0 | 9 |
+| 90d | 2026-08-08 | 1 | 4 | 1 | 0 | 0 | 27 |
+| last180d | 2026-05-10 | 8 | 17 | 1 | 2 | 1 | 136 |
+| 360d | 2025-11-11 | 14 | 32 | 1 | 5 | 1 | 630 |
+| last720d | 2024-11-16 | 14 | 32 | 1 | 5 | 1 | 657 |
 
 ## Release 资产
 
@@ -62,10 +62,6 @@ x install kuku
 | [Kuku.app.tar.gz](https://github.com/kuku-mom/kuku/releases/download/0.6.0/Kuku.app.tar.gz) | 16.6 MiB | `native/unknown` |
 | [Kuku.app.tar.gz.sig](https://github.com/kuku-mom/kuku/releases/download/0.6.0/Kuku.app.tar.gz.sig) | 400 B | `other` |
 | [Kuku_0.6.0_aarch64.dmg](https://github.com/kuku-mom/kuku/releases/download/0.6.0/Kuku_0.6.0_aarch64.dmg) | 16.3 MiB | `other` |
-
-## 发行版状态
-
-在 [repology.org](https://repology.org/project/kuku) 上共有 **2** 个发行版报告此项目。**2** 个 ✅ 已是最新上游版本，**0** 个 ⚠️ 使用旧版本。
 
 ## 改进这些数据
 
@@ -76,4 +72,4 @@ kuku 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261105.yml` · 2026-11-05T07:19:45Z._
+_数据快照: `data/card/261106.yml` · 2026-11-06T07:29:43Z._

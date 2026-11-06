@@ -38,7 +38,7 @@ Total: **216,821** lines of code across **700** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 233 · **Forks**: 41 · **Open issues**: 6 · **Contributors**: 5
+- **Stars**: 232 · **Forks**: 41 · **Open issues**: 6 · **Contributors**: 5
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **216,821** lines of code across **700** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-06 | 1 | 0 | 1 | 0 | 0 | 9 |
-| last60d | 2026-09-06 | 1 | 0 | 1 | 0 | 0 | 9 |
-| 90d | 2026-08-07 | 1 | 4 | 1 | 0 | 0 | 27 |
-| last180d | 2026-05-09 | 8 | 17 | 1 | 2 | 1 | 136 |
-| 360d | 2025-11-10 | 14 | 32 | 1 | 5 | 1 | 630 |
-| last720d | 2024-11-15 | 14 | 32 | 1 | 5 | 1 | 657 |
+| 30d | 2026-10-07 | 1 | 0 | 1 | 0 | 0 | 9 |
+| last60d | 2026-09-07 | 1 | 0 | 1 | 0 | 0 | 9 |
+| 90d | 2026-08-08 | 1 | 4 | 1 | 0 | 0 | 27 |
+| last180d | 2026-05-10 | 8 | 17 | 1 | 2 | 1 | 136 |
+| 360d | 2025-11-11 | 14 | 32 | 1 | 5 | 1 | 630 |
+| last720d | 2024-11-16 | 14 | 32 | 1 | 5 | 1 | 657 |
 
 ## Release assets
 
@@ -62,10 +62,6 @@ Total: **216,821** lines of code across **700** files in the top 5 languages.
 | [Kuku.app.tar.gz](https://github.com/kuku-mom/kuku/releases/download/0.6.0/Kuku.app.tar.gz) | 16.6 MiB | `native/unknown` |
 | [Kuku.app.tar.gz.sig](https://github.com/kuku-mom/kuku/releases/download/0.6.0/Kuku.app.tar.gz.sig) | 400 B | `other` |
 | [Kuku_0.6.0_aarch64.dmg](https://github.com/kuku-mom/kuku/releases/download/0.6.0/Kuku_0.6.0_aarch64.dmg) | 16.3 MiB | `other` |
-
-## Distribution status
-
-Reported by **2** distros on [repology.org](https://repology.org/project/kuku). **2** are ✅ on the latest upstream release, **0** are ⚠️ on an older version.
 
 ## Improve this data
 
@@ -76,4 +72,4 @@ Install metadata for kuku lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261105.yml` · 2026-11-05T07:19:44Z._
+_Snapshot: `data/card/261106.yml` · 2026-11-06T07:29:42Z._
